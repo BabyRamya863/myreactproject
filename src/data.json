@@ -1,0 +1,115 @@
+{
+    "profile":[
+    
+    {
+    
+    "basics":{
+    "name":"K.Baby Ramya",
+    "role":"Engineer",
+    "phone":"8761394810",
+    "email":"ramyaroyal@gmail.com"
+    },
+    "career":"As a fresher to give my Software Carrier a solid start by joining,eminent and highly professional software company and contribute to the success of the company by outstanding performances and there advancing my career",
+    "Education":{
+		"qualification":"Under Graduate",
+		"course":"B-tech",
+		"university":"Rgukt,Rk Valley",
+		"passingyear":"2022",
+		"CGPA":"9.3"
+	},
+	"SkillsandInterest":{
+	   "s1": "*Computer literate(Programming,Web Development)",
+		"s2":"1.C-Langauge",
+		"s3":"2.Java",
+		"s4":"3.Front-end Developer(HTML,CSS,Java Script,Jquery)"
+	},
+	"projects":{
+		"p1":"* I did a project in my B-Tech(1st year)regarding IPL cricket match",
+		"p2":"* I develop a website regarding Coding Club(regarding full stack developement)"
+	},
+	"personal":{
+        "DOB":"May17,2000",
+		"age":"20",
+		"Gender":"Female",
+        "Mother":"Swarnalatha.k",
+        "Father":"Muniraja.k",
+        "place_of_Birth":"Rompicherla,Chittoor District"
+    }
+},
+{
+    
+    "basics":{
+    "name":"K.Maneesha",
+    "role":"Charted Accountant",
+    "phone":"8761393419",
+    "email":"maneesha1@gmail.com"
+    },
+    "career":"As a fresher to give my Software Carrier a solid start by joining,eminent and highly professional software company and contribute to the success of the company by outstanding performances and there advancing my career",
+    "Education":{
+		"qualification":"Under Graduate",
+		"course":"CA",
+		"university":"ICAI Institue",
+		"passingyear":"2022",
+		"CGPA":"8.0%"
+	},
+	"SkillsandInterest":{
+	   "s1": "*Accountant",
+		"s2":"1.FinancialReporter",
+		"s3":"2.Cost Accountant",
+		"s4":"3.Good Communication Skills"
+	},
+	"projects":{
+		"p1":"* I did a 3 years articleship in VishnuDaya",
+		"p2":"* Auditing and Accounting services for product and service based companies."
+	},
+	"personal":{
+        "DOB":"April7th,1998",
+		"age":"22",
+		"Gender":"Female",
+        "Mother":"Swarnalatha.k",
+        "Father":"Muniraja.k",
+        "place_of_Birth":"Rompicherla,Chittoor District"
+    }
+},
+{
+    
+    "basics":{
+    "name":"A.Vamsi Krishna",
+    "role":"Charted Accountant",
+    "phone":"9661394810",
+    "email":"vamsi0128@gmial.com"
+    },
+    "career":"As a fresher to give my Software Carrier a solid start by joining,eminent and highly professional software company and contribute to the success of the company by outstanding performances and there advancing my career",
+    "Education":{
+        "qualification":"Under Graduate",
+		"course":"CA",
+		"university":"ICAI Institue",
+		"passingyear":"2022",
+		"CGPA":"8.0%"
+		
+	},
+	"SkillsandInterest":{
+        "s1": "*Accountant",
+		"s2":"1.FinancialReporter",
+		"s3":"2.Cost Accountant",
+		"s4":"3.Good Communication Skills"
+	  
+	},
+	"projects":{
+        "p1":"* I did a 3 years articleship in VishnuDaya",
+		"p2":"* Auditing and Accounting services for product and service based companies."
+		
+	},
+	"personal":{
+        "DOB":"August19th,1997",
+		"age":"23",
+		"Gender":"Male",
+        "Mother":"Surekha.A",
+        "Father":"Ramesh.A",
+        "place_of_Birth":"Renigunta,Chittoor District"
+    }
+}
+
+]
+}
+    
